@@ -1,2 +1,2 @@
-# Gitlab hosting
+# GIT-hosting
 
